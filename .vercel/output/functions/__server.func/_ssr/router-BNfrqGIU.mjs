@@ -215,7 +215,7 @@ function Footer() {
             target: "_blank",
             rel: "noopener noreferrer",
             className: "hover:text-accent transition-colors",
-            children: "Softsuite Techn."
+            children: "Softsuite Technologies ."
           }
         )
       ] })
