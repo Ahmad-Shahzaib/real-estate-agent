@@ -63,12 +63,12 @@ export function Navbar() {
         scrolled ? "py-3" : "py-5"
       }`}
     >
-      <div className="container-luxury flex items-center justify-between gap-4 xl:gap-6">
+      <div className="container-luxury flex items-center justify-between gap-4 xl:gap-4">
         <div className={`${scrolled ? "text-foreground" : "text-foreground"} shrink-0`}>
           <Logo label={logoLabel} />
         </div>
 
-        <nav className="hidden xl:flex flex-1 min-w-0 items-center justify-center gap-5 2xl:gap-7 text-[11px] 2xl:text-[12px] tracking-[0.12em] 2xl:tracking-[0.13em] uppercase whitespace-nowrap">
+        <nav className="hidden xl:flex flex-1 min-w-0 items-center justify-center gap-3 xl:gap-4 text-[11px] xl:text-[12px] tracking-[0.10em] xl:tracking-[0.10em] uppercase whitespace-nowrap">
           {NAV.map((n) => (
             <Link
               key={n.to}
