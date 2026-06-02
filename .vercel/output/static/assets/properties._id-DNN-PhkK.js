@@ -1,0 +1,1 @@
+import{j as t,L as o}from"./index-BhzXcdx_.js";const n=()=>t.jsxs("div",{className:"pt-40 pb-32 container-luxury text-center",children:[t.jsx("h1",{className:"font-serif text-5xl",children:"Residence not found"}),t.jsx(o,{to:"/properties",className:"btn-gold mt-8",children:"Back to portfolio"})]});export{n as notFoundComponent};

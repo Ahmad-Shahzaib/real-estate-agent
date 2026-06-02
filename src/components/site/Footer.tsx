@@ -12,7 +12,7 @@ export function Footer() {
               <path d="M9 20v-6h6v6" stroke="currentColor" strokeWidth="1.2" fill="none" />
               <path d="M10 6l2-2 2 2" stroke="currentColor" strokeWidth="1.2" fill="none" />
             </svg>
-            <span className="font-serif text-lg tracking-[0.3em] uppercase">Elara Estates</span>
+            <span className="font-serif text-lg tracking-[0.3em] uppercase">Softsuite Estates</span>
           </div>
           <p className="mt-5 text-sm text-muted-foreground max-w-sm leading-relaxed">
             Where Luxury Meets Home. A private office representing extraordinary residences across
@@ -57,7 +57,7 @@ export function Footer() {
 
       <div className="border-t border-border">
         <div className="container-luxury py-6 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-muted-foreground tracking-wide">
-          <span>© {new Date().getFullYear()} Elara Estates. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} Softsuite Estates. All rights reserved.</span>
           <span>
             Design by{" "}
             <a
