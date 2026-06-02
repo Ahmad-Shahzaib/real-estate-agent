@@ -66,7 +66,7 @@ export function Footer() {
               rel="noopener noreferrer"
               className="hover:text-accent transition-colors"
             >
-              Softsuite Techn.
+              Softsuite Technologies
             </a>
           </span>
         </div>
