@@ -46,7 +46,7 @@ export function Footer() {
         </div>
 
         <div className="lg:col-span-4">
-          <h4 className="text-xs tracking-[0.28em] uppercase mb-5">Offices</h4>
+          <h4 className="text-xs tracking-[0.28em] uppercase mb-5">Offices </h4>
           <ul className="space-y-4 text-sm text-muted-foreground">
             <li><span className="text-foreground">London</span><br/>14 Berkeley Square, Mayfair W1J · +44 20 7946 0118</li>
             <li><span className="text-foreground">Monaco</span><br/>2 Avenue de Monte-Carlo · +377 99 00 12 14</li>
